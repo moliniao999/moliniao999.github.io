@@ -6,7 +6,7 @@ email: weiliwhereareyou@163.com
 description: "Every failure is leading towards success."
 keyword: "weili, weili Blog, 韦力的博客, weili, 韦力, iOS, Apple, iPhone"
 url: "https://moliniao999.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""       # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/moliniao999/moliniao999.github.io.git" # you code repository
 
 # Sidebar settings
