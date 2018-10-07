@@ -1,28 +1,26 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Wesley's Blog
+SEOTitle: 韦力的博客 | weili Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: weiliwhereareyou@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "weili, weili Blog, 韦力的博客, weili, 韦力, iOS, Apple, iPhone"
+url: "https://moliniao999.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/moliniao999/moliniao999.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+github_username:    moliniao999
+jianshu_username:   9d17f1f9e311
 #twitter_username:   qiubaiying
 
 
