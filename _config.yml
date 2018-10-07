@@ -1,7 +1,7 @@
 # Site settings
 title: Wesley's Blog
 SEOTitle: 韦力的博客 | weili Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-map.jpg
 email: weiliwhereareyou@163.com
 description: "Every failure is leading towards success."
 keyword: "weili, weili Blog, 韦力的博客, weili, 韦力, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/moliniao999/moliniao999.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -54,12 +54,12 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: moliniao999
+ Disqus（https://disqus.com/）
+ disqus_username: moliniao999
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: moliniao999.github.io    #仓库名称
@@ -96,10 +96,10 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    }
+  #  {
+  #      title: "简书·BY",
+  #      href: "http://www.jianshu.com/u/e71990ada2fd"
+  #  }
 ]
 
 theme: jekyll-theme-slate
