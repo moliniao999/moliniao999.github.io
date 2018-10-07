@@ -54,8 +54,8 @@ kramdown:
 
 
 # 评论系统
- Disqus（https://disqus.com/）
- disqus_username: moliniao999
+# Disqus（https://disqus.com/）
+# disqus_username: moliniao999
 
 # Gitalk
 gitalk:
@@ -72,7 +72,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
@@ -95,11 +95,4 @@ service-worker: true
 
 
 # Friends
-friends: [
-  #  {
-  #      title: "简书·BY",
-  #      href: "http://www.jianshu.com/u/e71990ada2fd"
-  #  }
-]
-
-theme: jekyll-theme-slate
+  
