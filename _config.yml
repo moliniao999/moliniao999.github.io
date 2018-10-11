@@ -1,17 +1,17 @@
 # Site settings
-title: 韦力的 Blog
+title: Wesley's Blog
 SEOTitle: 韦力的博客 | weili Blog
 header-img: img/post-bg-kuaidi.jpg
 email: weiliwhereareyou@163.com
-description: "Every failure is leading towards success."
-keyword: "weili, weili Blog, 韦力的博客, weili, 韦力, iOS, Apple, iPhone"
+description: "勇于直面内心的恐惧"
+keyword: "weili,wesley blog, weili Blog, 韦力的博客, weili, 韦力, iOS, Apple, iPhone"
 url: "https://moliniao999.github.io"          # your host, for absolute URL
 baseurl: "/"       # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/moliniao999/moliniao999.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "勇于直面内心的恐惧!"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
